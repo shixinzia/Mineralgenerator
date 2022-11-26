@@ -1,0 +1,10 @@
+name: Mineralgenerator
+author: shixinzia
+description: a slimefun addon
+main: io.github.shixinzia.mineralgenerator.Mineralgenerator
+website: https://github.com/shixinzia/
+depend: [Slimefun]
+version: ${project.version}
+api-version: 1.16
+
+

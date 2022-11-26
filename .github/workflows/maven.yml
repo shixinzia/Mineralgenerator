@@ -41,6 +41,6 @@ jobs:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
         automatic_release_tag: "jar"
         prerelease: true
-        title: "FNAmplifications 自动构建版本"
+        title: "Mineralgenerator 自动构建版本"
         files: |
            target/*
